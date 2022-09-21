@@ -1,0 +1,7 @@
+pygame
+autopep8
+numpy
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu113
